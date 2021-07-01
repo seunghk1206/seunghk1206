@@ -20,7 +20,7 @@
 > 6-Manhattan-FullStack-Development, once named "Python Enhanced," was my first CNN project! It gives an idea of how the data processing and deep learning using CNN works.
 
 ### codingAcademy
-
+> codingAcademy is my ICSG project which is a club that teaches coding internationally. The progress of each student can be seen, but no personal informations are made public.
 
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
