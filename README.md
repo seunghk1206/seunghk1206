@@ -5,13 +5,22 @@
  3. Lastly, be what you want to be!
 
 ### Machine_Learning_imgTraining
-> Machine_Learning_imgTraining is one of my early machine learning experiences! The goal of it was to train an object, and see how it correlates with the accuracy of the output.
+> Machine_Learning_imgTraining was one of my early machine learning experiences! The goal of it was to train an object, and see how it correlates with the accuracy of the output.
 
 ### Flappy_bird_using_AI
-> Flappy_bird_using_AI is one of my simple python projects! The goal of the project was to create the game flappy bird, and in addition, create a re-enforcement learning program which can teach the computer itself how to play flappy bird.
+> Flappy_bird_using_AI was one of my simple python projects! The goal of the project was to create the game flappy bird, and in addition, create a re-enforcement learning program which can teach the computer itself how to play flappy bird.
 
 ### nNomialConverter_floatType
-> nNomialConverter_floatType is one of my simple python projects! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
+> nNomialConverter_floatType was one of my simple python projects! The goal of this project was to create a nomial converter that can convert even decimals to n nomial form.
+
+### 3D_Volume_Measurement_Using_2D_images
+> 3D_Volume_Measurement_Using_2D_images was my first corporation related project! The goal of this project is to mathematically calculate the length of the edges with 2D images.
+
+### 6-Manhattan-FullStack-Development
+> 6-Manhattan-FullStack-Development, once named "Python Enhanced," was my first CNN project! It gives an idea of how the data processing and deep learning using CNN works.
+
+### codingAcademy
+
 
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
