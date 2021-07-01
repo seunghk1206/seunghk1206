@@ -48,6 +48,19 @@ coding internationally. The progress of each student can be seen
 , but no personal informations are made public.
 ```
 
+### Manhattan Development Contents Page
+
+> python 3.6.8 - 3.7.6
+
+-----------
+> Python
+- 1 - Python Basic
+- 2 - Data Structure
+- 3 - Problem Solving
+- 4 - RPG Manhattan project
+- 5 - Online gaming
+- 6 - Python Enhanced
+
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
