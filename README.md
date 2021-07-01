@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# nNomialConverter_floatType
+> nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
+
+# nNomialConverter_floatType
+> nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
+
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
