@@ -21,16 +21,32 @@ the computer itself how to play flappy bird.
 ```
 
 ### nNomialConverter_floatType
-> nNomialConverter_floatType was one of my simple python projects! The goal of this project was to create a nomial converter that can convert even decimals to n nomial form.
+```
+nNomialConverter_floatType was one of my simple python projects! The
+goal of this project was to create a nomial converter that can
+convert even decimals to n nomial form.
+```
 
 ### 3D_Volume_Measurement_Using_2D_images
-> 3D_Volume_Measurement_Using_2D_images was my first corporation related project! The goal of this project is to mathematically calculate the length of the edges with 2D images.
+```
+3D_Volume_Measurement_Using_2D_images was my first corporation
+related project! The goal of this project is to mathematically
+calculate the length of the edges with 2D images.
+```
 
 ### 6-Manhattan-FullStack-Development
-> 6-Manhattan-FullStack-Development, once named "Python Enhanced," was my first CNN project! It gives an idea of how the data processing and deep learning using CNN works.
+```
+6-Manhattan-FullStack-Development, once named "Python Enhanced," was
+my first CNN project! It gives an idea of how the data processing and
+deep learning using CNN works.
+```
 
 ### codingAcademy
-> codingAcademy is my ICSG project which is a club that teaches coding internationally. The progress of each student can be seen, but no personal informations are made public.
+```
+codingAcademy is my ICSG project which is a club that teaches coding
+internationally. The progress of each student can be seen, but no
+personal informations are made public.
+```
 
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
