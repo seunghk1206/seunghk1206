@@ -36,9 +36,9 @@ calculate the length of the edges with 2D images.
 
 ### 6-Manhattan-FullStack-Development
 ```
-6-Manhattan-FullStack-Development, once named "Python Enhanced," was
-my first CNN project! It gives an idea of how the data processing 
-and deep learning using CNN works.
+6-Manhattan-FullStack-Development, once named "Python Enhanced," 
+was my first CNN project! It gives an idea of how the data- 
+processing and deep learning using CNN works.
 ```
 
 ### codingAcademy
