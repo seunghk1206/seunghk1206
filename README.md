@@ -5,10 +5,10 @@
  3. Lastly, be what you want to be!
 
 ### nNomialConverter_floatType
-> nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
+> nNomialConverter_floatType is one of my simple python projects! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
 
-### nNomialConverter_floatType
-> nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
+### Machine_Learning_imgTraining
+> Machine_Learning_imgTraining is one of my early machine learning experiences! The goal of it was to train an object, and see how it correlates with the accuracy of the output.
 
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
