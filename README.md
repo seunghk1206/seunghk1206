@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+> This is my private coding space! If you'd like to ask me anything or use any of the coding materials/APIs that I created, please ask me anytime!
 
-# nNomialConverter_floatType
+### nNomialConverter_floatType
 > nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
 
-# nNomialConverter_floatType
+### nNomialConverter_floatType
 > nNomialConverter_floatType is my simple python project! The goal of this project is to create a nomial converter that can convert even decimals to n nomial form.
 
 <!--
