@@ -20,10 +20,10 @@ addition, create a re-enforcement learning program which can teach
 the computer itself how to play flappy bird.
 ```
 
-### nNomialConverter_floatType
+### VDC_API
 ```
-nNomialConverter_floatType was one of my simple python projects! 
-The goal of this project was to create a nomial converter that can
+VDC was one of my simple python projects! The goal of 
+this project was to create a nomial converter that can
 convert even decimals to n nomial form.
 ```
 
