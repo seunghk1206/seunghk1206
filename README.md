@@ -62,7 +62,7 @@ coding internationally. The progress of each student can be seen
 
 ### Personal message change log
 ```
-"Be what you want to be"
+"Be what you want to be."
 "Life is a never ending journey. Get buckled."
 ```
 <!--
