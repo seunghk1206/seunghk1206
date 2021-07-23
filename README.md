@@ -59,6 +59,12 @@ coding internationally. The progress of each student can be seen
 5 - Online gaming
 6 - Python Enhanced
 ```
+
+### Personal message change log
+```
+"Be what you want to be"
+
+```
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
