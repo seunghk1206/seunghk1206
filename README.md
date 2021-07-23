@@ -63,7 +63,7 @@ coding internationally. The progress of each student can be seen
 ### Personal message change log
 ```
 "Be what you want to be"
-
+"Life is a never ending journey. Get buckled."
 ```
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
