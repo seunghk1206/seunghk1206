@@ -52,7 +52,7 @@ coding internationally. The progress of each student can be seen
 
 ### Manhattan Development Contents Page
 
-> Python 3.6.8 - 3.7.6
+> Python 3.6.8 - 3.8.8
 ```
 1 - Python Basic
 2 - Data Structure
