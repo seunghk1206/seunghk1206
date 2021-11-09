@@ -20,7 +20,6 @@ addition, create a re-enforcement learning program which can teach
 the computer itself how to play flappy bird.
 ```
 
-📌
 ### AllInOne_API
 ```
 AllInOne_API is a respoitory I personally use when I want to use my 
@@ -30,7 +29,6 @@ has all the functions which other files contain, and they exist
 for combining them into one.
 ```
 
-📌
 ### 3D_Volume_Measurement_Using_2D_images
 ```
 3D_Volume_Measurement_Using_2D_images was my first corporation
@@ -45,11 +43,13 @@ was my first CNN project! It gives an idea of how the data-
 processing and deep learning using CNN works.
 ```
 
-### codingAcademy
+### Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods
 ```
-codingAcademy is my ICSG project which is a club that teaches 
-coding internationally. The progress of each student can be seen
-, but no personal informations are made public.
+Residual Quantity in Percentage of Factory Machines Using 
+ComputerVision and Mathematical Methods is my first project that
+I wrote an academic paper on. It may contain some gramatical 
+errors and sound like a ludicrous idea, but it was one of my 
+biggest project in November 9th, 2021.
 ```
 
 ### Manhattan Development Contents Page
@@ -69,6 +69,11 @@ coding internationally. The progress of each student can be seen
 "Be what you want to be."
 "Life is a never ending journey. Get buckled."
 ```
+
+📌 &nbsp;[Academic Paper: Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods](https://github.com/seunghk1206/Residual-Quantity-in-Percentage-of-Factory-Machines-Using-Computer-Vision-and-Mathematical-Methods)
+
+📌 &nbsp;[Korea Patent: Smart Shopping Bucket using RFID Reader](https://github.com/seunghk1206/Smart-Shopping-Bucket-using-RFID-Reader)
+
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
