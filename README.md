@@ -20,6 +20,7 @@ addition, create a re-enforcement learning program which can teach
 the computer itself how to play flappy bird.
 ```
 
+📌
 ### AllInOne_API
 ```
 AllInOne_API is a respoitory I personally use when I want to use my 
@@ -29,6 +30,7 @@ has all the functions which other files contain, and they exist
 for combining them into one.
 ```
 
+📌
 ### 3D_Volume_Measurement_Using_2D_images
 ```
 3D_Volume_Measurement_Using_2D_images was my first corporation
@@ -81,3 +83,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
