@@ -16,7 +16,7 @@ correlates with the accuracy of the output.
 ``` 
 Flappy_bird_using_AI was one of my simple python projects! The
 goal of the project was to create the game flappy bird, and in
-addition, create a re-enforcement learning program which can teach
+addition, create a reinforcement learning program which can teach
 the computer itself how to play flappy bird.
 ```
 
