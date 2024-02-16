@@ -74,6 +74,8 @@ biggest project in November 9th, 2021.
 
 📌 &nbsp;[Korea Patent: Smart Shopping Bucket using RFID Reader](https://github.com/seunghk1206/Smart-Shopping-Bucket-using-RFID-Reader)
 
+[@kimseung-gc] (https://github.com/kimseung-gc)
+
 <!--
 **seunghk1206/seunghk1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
