@@ -74,6 +74,8 @@ biggest project in November 9th, 2021.
 
 📌 &nbsp;[Korea Patent: Smart Shopping Bucket using RFID Reader](https://github.com/seunghk1206/Smart-Shopping-Bucket-using-RFID-Reader)
 
+Also see some projects I did while attending Grinnell College!
+
 [@kimseung-gc] (https://github.com/kimseung-gc)
 
 <!--
