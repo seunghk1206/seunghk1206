@@ -1,10 +1,5 @@
 # Hi there 👋
- This is my private coding space! If you'd like to ask me anything or use any of the coding materials/APIs that I created, please ask me anytime! Though, please follow 3 rules in my space!
- ```
- 1. no copyright issues plz
- 2. never forget a smile!
- 3. Lastly, be what you want to be!
- ```
+ This is my private coding space! If you'd like to ask me anything or use any of the coding materials/APIs that I created, please ask me anytime!
 ### Machine_Learning_imgTraining
 ``` 
 Machine_Learning_imgTraining was one of my early machine learning
