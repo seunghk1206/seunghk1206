@@ -31,13 +31,6 @@ related project! The goal of this project is to mathematically
 calculate the length of the edges with 2D images.
 ```
 
-### 6-Manhattan-FullStack-Development
-```
-6-Manhattan-FullStack-Development, once named "Python Enhanced," 
-was my first CNN project! It gives an idea of how the data- 
-processing and deep learning using CNN works.
-```
-
 ### Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods
 ```
 Residual Quantity in Percentage of Factory Machines Using 
@@ -45,24 +38,6 @@ ComputerVision and Mathematical Methods is my first project that
 I wrote an academic paper on. It may contain some gramatical 
 errors and sound like a ludicrous idea, but it was one of my 
 biggest project in November 9th, 2021.
-```
-
-### Manhattan Development Contents Page
-
-> Python 3.6.8 - 3.8.8
-```
-1 - Python Basic
-2 - Data Structure
-3 - Problem Solving
-4 - RPG Manhattan project
-5 - Online gaming
-6 - Python Enhanced
-```
-
-### Personal message change log
-```
-"Be what you want to be."
-"Life is a never ending journey. Get buckled."
 ```
 
 📌 &nbsp;[Academic Paper: Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods](https://github.com/seunghk1206/Residual-Quantity-in-Percentage-of-Factory-Machines-Using-Computer-Vision-and-Mathematical-Methods)
